@@ -8,4 +8,4 @@ gcc main.c -Ipath\to\CSFML\include -Lpath\to\CSFML\lib\gcc  -lcsfml-graphics -lc
 # License
 GPLv3
 # Author
-**slxfld 2018**
+**slxfld 2019**

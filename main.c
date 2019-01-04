@@ -9,7 +9,7 @@
 
 /**
  *
- *  Copyright 2018 by slxfld
+ *  Copyright 2019 by slxfld
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
