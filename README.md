@@ -17,4 +17,4 @@ requires MinGW g++ & Make
 GPLv3
 
 # Author
-*slxfld 2020*
+*slxfld 2021*
