@@ -22,6 +22,3 @@ C (old version) <br>
 
 # License
 GPL-3.0 License 
-
-# Author
-*slxfld 2021*
